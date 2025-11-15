@@ -1,5 +1,5 @@
 
-# 🔴 🟡 🟢 | MOCHIPNG - LILY LORD 
+# 🔴 🟡 🟢 | MOCHIPNG - LILY LORD (릴리)
 
 <br>
 
