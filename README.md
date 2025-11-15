@@ -18,7 +18,7 @@ Art, design, animation, programming
 
 <br>
 
-<p align = center>Programming</p>
+<p align = center>Programming & General Tech</p>
 <div align = center>
   <img alt="Alt text" src="https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white"/>
   <img alt="Alt text" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"/>
