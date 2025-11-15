@@ -1,33 +1,44 @@
-<div align="center" style="max-width: 800px; border: 2px solid #333; border-radius: 10px; background-color: #1e1e1e; color: #fff; font-family: monospace; padding: 20px;">
 
-  <!-- Window header -->
-  <div style="display: flex; align-items: center; margin-bottom: 15px;">
-    <span style="color: #ff5f56;">●</span>
-    <span style="color: #ffbd2e; margin-left: 5px;">●</span>
-    <span style="color: #27c93f; margin-left: 5px;">●</span>
-    <span style="margin-left: 15px; font-weight: bold;">Lily Lord | mochipng</span>
-  </div>
+# 🔴 🟡 🟢 | MOCHIPNG - LILY LORD 
 
-  <!-- Window content -->
-  <div>
-    <p>Self-taught full-stack developer and web designer. HS Student and Computer Information Science major. SkillsUSA PA District 11 Web Design Champion.</p>
+<br>
 
-    <h3>Tools and Languages</h3>
-    <p>
-      ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
-      ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) 
-      ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
-      ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
-      ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) 
-      ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-      ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
-      ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
-      ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
-      ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)<br>
-      ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=flat&logo=Aseprite&logoColor=#7D929E) 
-      ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
-      ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
-    </p>
-  </div>
+<p align = center>
+Computer Information Science Student (HS Senior) <br>
+Self taught full-stack web & software dev <br>
+SkillsUSA PA District 11 Web Design & Development Champion
+</p>
 
+<p align = center>
+17 y.o., KOR / ENG (EST) <br>
+Art, design, animation, programming
+</p>
+
+## TECH STACK
+
+<br>
+
+<p align = center>Programming</p>
+<div align = center>
+  <img alt="Alt text" src="https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white"/>
+  <img alt="Alt text" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"/>
+  <img alt="Alt text" src="https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=Go&logoColor=white"/>
+  <img alt="Alt text" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/>
+  <img alt="Alt text" src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white"/>
+  <img alt="Alt text" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/>
+  <img alt="Alt text" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"/>
+  <img alt="Alt text" src="https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white"/>
+  <img alt="Alt text" src="https://img.shields.io/badge/Swift-F05138.svg?style=for-the-badge&logo=Swift&logoColor=white"/>
+  <img alt="Alt text" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black"/>
+  <img alt="Alt text" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"/>
+  <img alt="Alt text" src="https://img.shields.io/badge/Gamemaker-000000.svg?style=for-the-badge&logo=Gamemaker&logoColor=white"/>
+  <img alt="Alt text" src="https://img.shields.io/badge/Cursor-000000.svg?style=for-the-badge&logo=Cursor&logoColor=white"/>
+</div> <br>
+
+<p align = center>Art & Design</p>
+<div align = center>
+  <img alt="Alt text" src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white"/>
+  <img alt="Alt text" src="https://img.shields.io/badge/Affinity-222324.svg?style=for-the-badge&logo=Affinity&logoColor=white"/>
+  <img alt="Alt text" src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white"/>
 </div>
+
